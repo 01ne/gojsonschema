@@ -18,7 +18,7 @@ import (
 	"bytes"
 	"errors"
 
-	"github.com/xeipuuv/gojsonreference"
+	"github.com/01ne/gojsonreference"
 )
 
 // SchemaLoader is used to load schemas

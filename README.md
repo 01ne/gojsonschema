@@ -1,6 +1,6 @@
-[![GoDoc](https://godoc.org/github.com/xeipuuv/gojsonschema?status.svg)](https://godoc.org/github.com/xeipuuv/gojsonschema)
+[![GoDoc](https://godoc.org/github.com/01ne/gojsonschema?status.svg)](https://godoc.org/github.com/01ne/gojsonschema)
 [![Build Status](https://travis-ci.org/xeipuuv/gojsonschema.svg)](https://travis-ci.org/xeipuuv/gojsonschema)
-[![Go Report Card](https://goreportcard.com/badge/github.com/xeipuuv/gojsonschema)](https://goreportcard.com/report/github.com/xeipuuv/gojsonschema)
+[![Go Report Card](https://goreportcard.com/badge/github.com/01ne/gojsonschema)](https://goreportcard.com/report/github.com/01ne/gojsonschema)
 
 # gojsonschema
 
@@ -17,13 +17,13 @@ References :
 ## Installation
 
 ```
-go get github.com/xeipuuv/gojsonschema
+go get github.com/01ne/gojsonschema
 ```
 
 Dependencies :
-* [github.com/xeipuuv/gojsonpointer](https://github.com/xeipuuv/gojsonpointer)
-* [github.com/xeipuuv/gojsonreference](https://github.com/xeipuuv/gojsonreference)
-* [github.com/stretchr/testify/assert](https://github.com/stretchr/testify#assert-package)
+* [github.com/01ne/gojsonpointer](https://github.com/01ne/gojsonpointer)
+* [github.com/01ne/gojsonreference](https://github.com/01ne/gojsonreference)
+* [github.com/01ne/testify/assert](https://github.com/01ne/testify#assert-package)
 
 ## Usage
 
@@ -35,7 +35,7 @@ package main
 
 import (
     "fmt"
-    "github.com/xeipuuv/gojsonschema"
+    "github.com/01ne/gojsonschema"
 )
 
 func main() {

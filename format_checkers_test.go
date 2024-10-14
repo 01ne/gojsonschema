@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/stretchr/testify/assert"
+	"github.com/01ne/testify/assert"
 )
 
 func TestUUIDFormatCheckerIsFormat(t *testing.T) {

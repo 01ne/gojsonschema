@@ -15,10 +15,10 @@
 package gojsonschema
 
 import (
-	"github.com/stretchr/testify/require"
+	"github.com/01ne/testify/require"
 	"testing"
 
-	"github.com/stretchr/testify/assert"
+	"github.com/01ne/testify/assert"
 )
 
 func TestSchemaLoaderWithReferenceToAddedSchema(t *testing.T) {

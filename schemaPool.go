@@ -31,7 +31,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/xeipuuv/gojsonreference"
+	"github.com/01ne/gojsonreference"
 )
 
 type schemaPoolDocument struct {
